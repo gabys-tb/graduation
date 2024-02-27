@@ -1,0 +1,1 @@
+A terceira entrega do TP era uma entrega parcial com os códigos/resultados que haviam sido obtidos até o momento. A quarta entrega é que apresenta todos os resultados, junto com o relatório e os códigos completos.
